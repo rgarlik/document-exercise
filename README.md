@@ -1,6 +1,7 @@
 # Document Exercise
 
-A ASP.NET Core webapp with a `/documents` endpoint that allows storing documents of the following structure:
+A ASP.NET Core webapp with a `/documents` endpoint that allows storing documents of the following structure. Note: the `data` field is completely arbitrary
+and can contain any sort of data):
 ```json
 {
     "id": "some-unique-identifier1",
